@@ -1,0 +1,22 @@
+D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/EnReg.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/EnReg.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module EnReg
+
+Top level modules:
+	EnReg
+
+} {} {}} D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/PreprocessUnit.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/PreprocessUnit.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PreprocessUnit
+
+Top level modules:
+	PreprocessUnit
+
+} {} {}} D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_PreprocessUnit.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_PreprocessUnit.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_PreprocessUnit
+
+Top level modules:
+	tb_PreprocessUnit
+
+} {} {}}
