@@ -1,0 +1,251 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/mul_code/FixAMul1X21.1.0/questasim_prj
+vComputeUnit
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 azAZPUjHK[`gIDPdl=Ha_3
+ICI[9Kk?H=15Szhm>jJ7aV2
+!s105 ComputeUnit_sv_unit
+S1
+Z2 dD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/work
+w1638973851
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/ComputeUnit.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/ComputeUnit.sv
+L0 1
+Z3 OL;L;10.6c;65
+Z4 !s108 1638973878.000000
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/ComputeUnit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/ComputeUnit.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+n@compute@unit
+vEncode
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 kSc3Jihm3P75>igCf6oGC1
+IMK0K3gNLl>Y]kX6HW>Ok`1
+!s105 Encode_sv_unit
+S1
+R2
+w1638791541
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Encode.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Encode.sv
+L0 1
+R3
+R4
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Encode.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Encode.sv|
+!i113 0
+R5
+R6
+n@encode
+vEnReg
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 7FJZdR1<aQ9gA>j7f^M0I2
+IC1TWo`7YcndolJz`iWA_61
+!s105 EnReg_sv_unit
+S1
+R2
+w1635513616
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/EnReg.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/EnReg.sv
+L0 1
+R3
+R4
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/EnReg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/EnReg.sv|
+!i113 0
+R5
+R6
+n@en@reg
+vMask
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Injn9cnaPfYIFlR@]13bK1
+Ih7:KzX87dcVd?M3P>XSWa0
+!s105 Mask_sv_unit
+S1
+R2
+w1635750916
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Mask.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Mask.sv
+L0 2
+R3
+R4
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Mask.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Mask.sv|
+!i113 0
+R5
+R6
+n@mask
+vMulUnit
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @=SYGA39WgoM;R;1`MbkO1
+IYNo:Ua3BRUG8l8W60;V1=1
+!s105 MulUnit_sv_unit
+S1
+R2
+w1638840691
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/MulUnit.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/MulUnit.sv
+L0 1
+R3
+Z7 !s108 1638973879.000000
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/MulUnit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/MulUnit.sv|
+!i113 0
+R5
+R6
+n@mul@unit
+vPreprocessUnit
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 K^J_8o5MOPW7CoDz:02z61
+IWXW1z45F>n`:;l@BK9>Kg0
+!s105 PreprocessUnit_sv_unit
+S1
+R2
+w1638761073
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/PreprocessUnit.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/PreprocessUnit.sv
+L0 1
+R3
+R7
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/PreprocessUnit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/PreprocessUnit.sv|
+!i113 0
+R5
+R6
+n@preprocess@unit
+vtb_PreprocessUnit
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 dHQG9`W<@=Ra0oQ1eVj7e2
+IRMmW5eg[b22Q]OQ9PCESV1
+!s105 tb_PreprocessUnit_sv_unit
+S1
+R2
+w1638440523
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_PreprocessUnit.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_PreprocessUnit.sv
+L0 1
+R3
+!s108 1638440530.000000
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_PreprocessUnit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_PreprocessUnit.sv|
+!i113 0
+R5
+R6
+ntb_@preprocess@unit
+vtb_Unsigned8mul
+R0
+!s110 1638973879
+!i10b 1
+!s100 ;9]@3Pf6>9El?0^3aFFWb2
+ISdAnBKaMf82U:<9_9imGX1
+R1
+!s105 tb_Unsigned8mul_sv_unit
+S1
+R2
+w1638859623
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul.sv
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul.sv|
+!i113 0
+R5
+R6
+ntb_@unsigned8mul
+vtb_Unsigned8mul_cnn
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 l>;0I6H`B[RfI7zFfW_UC1
+IZ>1i]mcJUD>:dDo3m:LkX1
+!s105 tb_Unsigned8mul_cnn_sv_unit
+S1
+R2
+w1638958562
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul_cnn.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul_cnn.sv
+L0 2
+R3
+R7
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul_cnn.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/sim/tb_Unsigned8mul_cnn.sv|
+!i113 0
+R5
+R6
+ntb_@unsigned8mul_cnn
+vUnsigned8mul
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Tg7zQUo0GNLCdbZYVBAOc1
+Ih_>0<4<ZYKD9Lm3RW<WZW1
+!s105 Unsigned8mul_sv_unit
+S1
+R2
+w1638840072
+8D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Unsigned8mul.sv
+FD:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Unsigned8mul.sv
+L0 1
+R3
+R7
+!s107 D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Unsigned8mul.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/mul_code/redix8_unsigned8mul/redix8_unsigned8mul0.0.1/rtl/Unsigned8mul.sv|
+!i113 0
+R5
+R6
+n@unsigned8mul
